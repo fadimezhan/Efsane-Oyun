@@ -17,3 +17,4 @@ def get_number
    number=gets.to_i
 end
 findtheNumber
+#fdm

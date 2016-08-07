@@ -16,4 +16,4 @@ def get_number
    puts "Bir sayi giriniz"
    number=gets.to_i
 end
-findtheNumber()
+findtheNumber
